@@ -1,80 +1,44 @@
-# SoftUni JavaScript Solutions
+# SoftUni - JavaScript Course
 
+This repository contains my solutions to the exercises and projects from the **JavaScript** track at [SoftUni](https://softuni.bg/).
 
+The course covers JavaScript from the fundamentals up to advanced topics, including OOP, asynchronous programming, and building real-world applications.
 
-Това хранилище съдържа моите решения на задачи и лабораторни упражнения от обучението ми в **СофтУни**. Проектите тук служат като архив на моя напредък, практическа подготовка и развитие като софтуерен инженер.
+## 📚 Progress
 
+- [x] JS Basics
+- [x] JS Advanced
+- [ ] JS Applications *(in progress)*
+- [ ] JS Front-End Frameworks
+- [ ] JS Back-End
 
+> Currently working through **JS Applications**.
 
-## 📂 Структура на хранилището
+## 📁 Repository Structure
 
+The repository is organized by module, with each module containing the exercises and projects solved during that course:
 
+```
+├── JS-Basics/
+├── JS-Advanced/
+├── JS-Applications/
+└── ...
+```
 
-### JS Fundamentals
+Each module folder contains subfolders for individual lectures/topics, with exercise solutions inside.
 
+## 🛠 Technologies
 
+- JavaScript (ES6+)
+- HTML & CSS
+- Node.js
+- Git & GitHub
 
-Фундаментални знания за езика:
+## 👤 Author
 
+**Ivan**
+Student at SoftUni - JavaScript Track
 
+## 📄 License
 
-* Променливи и типове данни
-
-* Условни конструкции
-
-* Цикли
-
-* Масиви и асоциативни масиви
-
-* Функции
-
-* Обекти
-
-* Базови алгоритмични задачи
-
-
-
-### JS Advanced
-
-
-
-Дълбоко навлизане в JavaScript:
-
-
-
-* DOM Manipulation
-
-* Работа със събития (Events)
-
-* Усъвършенствани функции
-
-* Обекти и прототипи (Prototypes)
-
-* Класове
-
-* Обектно-ориентирано програмиране (OOP)
-
-* Unit Testing
-
-
-
-## 🛠️ Използвани технологии и среда
-
-
-
-  **Език:** JavaScript (ES6+)
-
-  **Среда:** Node.js
-
-  **Редактор:** VS Code
-
-
-
-## 🎯 Цел на хранилището
-
-
-
-Това хранилище документира моето развитие по време на обучението ми в СофтУни и служи като място за съхранение на решения, упражнения и практически задачи.
-
-
-
+This repository is for educational purposes, showcasing my progress through the SoftUni JavaScript course.
