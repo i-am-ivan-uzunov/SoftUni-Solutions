@@ -19,7 +19,7 @@ The course covers JavaScript from the fundamentals up to advanced topics, includ
 The repository is organized by module, with each module containing the exercises and projects solved during that course:
 
 ```
-├── JS-Basics/
+├── JS-Fundamentals/
 ├── JS-Advanced/
 ├── JS-Applications/
 └── ...
@@ -36,7 +36,7 @@ Each module folder contains subfolders for individual lectures/topics, with exer
 
 ## 👤 Author
 
-**Ivan**
+**Ivan Uzunov**
 Student at SoftUni - JavaScript Track
 
 ## 📄 License
